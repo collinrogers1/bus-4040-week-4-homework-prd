@@ -1,13 +1,5 @@
 # Product Requirements Document: CBE Event Program Records
 
-**Status:** Rough draft (pre-client interview)
-**Author:** Collin Rogers
-**Course:** BUS 4040 - AI for Business Applications, Week 4
-
-> This is a first stake in the ground. It will be revised after we meet the client. Assumptions that still need to be checked are listed under [Open Questions](#open-questions).
-
----
-
 ## Problem Statement
 
 CBE runs executive education for the energy sector through three programs: the **Energy Executive Course (EEC)**, the **Energy Executive Summit**, and the **Legislative Energy Horizon Institute**. Each program produces event schedules and agendas. These list sessions, speakers, speaker titles and organizations, times, venues, tours, and meals.
@@ -114,15 +106,3 @@ These are deferred to a later release or not planned:
 - Public-facing website or participant-facing mobile app
 - Multi-user permissions and roles beyond a single staff login
 - Storing presentation slides, recordings, or other session materials
-
-## Open Questions
-
-These are the assumptions in this draft that need to be confirmed with the client:
-
-1. When you last had to look up a past speaker, what did you already know about them, and what did you do?
-2. If someone spoke in 2018 as a utility VP and in 2024 as a consultant, is that one speaker or two?
-3. Some agendas list a speaker who may not have shown up. Should a cancelled speaker still count?
-4. Should logistics items such as meals, buses, tours, and hospitality suites be kept in the records, or only classroom sessions?
-5. Walk us through how you built your last event schedule. Where did you start, and what format did the final version need to be in?
-6. Who besides you will maintain this after the semester ends, and what tools do they already use?
-7. How are topics or themes tracked today, if at all?
